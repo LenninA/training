@@ -71,3 +71,4 @@ output "public_ip" {
   value	= ["${aws_instance.web.*.public_ip}"]
 }
 
+v9hj9qwnevf90h ovcoiyswpfu0- wvos
